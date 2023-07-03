@@ -1,7 +1,7 @@
 ### MECELLEM
 Run this project on a live server, and check the following:
    /index.html
-   /details.html 
+   /details.html  
 
 # Page 1 Snapschot
 ![First Page Image](SnapShots/FirstPage.png)
